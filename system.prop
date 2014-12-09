@@ -13,3 +13,6 @@ telephony.lteOnCdmaDevice=1
 # Moar ril props
 ril.subscription.types=NV,RUIM
 ro.telephony.default_cdma_sub=0
+
+# Use IMSI from SIM
+ro.telephony.get_imsi_from_sim=true

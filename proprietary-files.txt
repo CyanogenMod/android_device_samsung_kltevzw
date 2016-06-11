@@ -1,5 +1,6 @@
 # Bluetooth firmware
-vendor/firmware/bcm4350_V0301.0567.hcd
+vendor/firmware/bcm4350_V0375.0766_wisol.hcd
+vendor/firmware/bcm4350_V0375.0768.hcd
 
 # GPS
 etc/clatd.conf
@@ -21,7 +22,6 @@ vendor/firmware/libpn547_fw.so
 
 # Qualcomm framework
 lib/libmdmdetect.so
-lib/libperipheral_client.so
 vendor/lib/libconfigdb.so
 vendor/lib/libdiag.so
 vendor/lib/libdsutils.so
